@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hey!\n\nInstructions:\n\nWave this thing around to play music.\nAdjust volume with the draggable bar.\n\nPress Start to start.</string>
+    <string name="start_label">Start</string>
+    <string name="volume_label">Volume</string>
+    <string name="app_name">VideoMusic</string>
+	<string name="player_name">VideoMusic</string>
+</resources>
